@@ -7,3 +7,7 @@ FMA sends a `Range` header when streaming from their site -- Chrome's implementa
 #### TODO: 
 * Add pause and incremental seek (15 seconds).
 * Equalizer
+
+
+### JiraDarkInversion
+Jira doesn't support themes by default and is quite bright. This inverts the body by `88%` in order to support a dark, off-black, theme. Some precautions are taken to display images correctly.
